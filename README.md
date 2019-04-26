@@ -2,5 +2,7 @@
 
 ExBST.java - this java program creates a binary tree and displays it as a tree structure.
 
-Seawood- This is freelancing work I had done, this basically develops UI screen which was build from scratch.
+InfixToPostFix.java - this java program converts an infix to postfix expression and evaluates the expression using stack data structure
+
+BubbleSort.java - Java program to sort an arraylist in bubblesort methodlogy. 
 
